@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', getenv("APIKEY"));
-define('GJ_CODE', getenv("GJ_CODE"));
-define('SITE_NAME',getenv("SITE_NAME"));
-define('TITLENAME', getenv("TITLENAME"));
-define('EN2DEKEY',getenv("EN2DEKEY"));
-define('EMAIL', getenv("EMAIL"));
+define('APIKEY', 'AIzaSyAX6lCXU1NSeEiLGIQpnkA-lB4-NhFDjtI');
+define('GJ_CODE', 'US');
+define('SITE_NAME','u2b');
+define('TITLENAME', 'u2b');
+define('EN2DEKEY','$apr1$imWpSt/Q$/6NH8f63Rqi6FcvJMH0af');
+define('EMAIL', 'yangyaoming@hotmail.com');
 ?>
